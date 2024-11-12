@@ -1,3 +1,6 @@
+# This file is for NANO/GEM series RTK receiver
+# it is for strsvr of rtklib to setup the base and rover
+
 # 1Hz
 !HEX F1 D9 06 44 10 00 00 00 01 00 01 00 00 00 E8 03 00 00 00 00 00 00 47 13
 !WAIT 100
