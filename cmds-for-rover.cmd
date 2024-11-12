@@ -1,3 +1,6 @@
+# This file is for NANO/GEM series RTK receiver
+# it is for strsvr of rtklib to setup the base and rover
+
 # unlock fixed coordinates
 !HEX F1 D9 06 14 0C 00 00 00 00 00 00 00 00 00 00 00 00 00 26 34
 !WAIT 100
